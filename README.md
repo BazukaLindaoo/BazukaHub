@@ -20,7 +20,7 @@ local InfoTab = Window:MakeTab({ Title = "Info", Icon = "rbxassetid://1530913847
 
 InfoTab:AddSection({ "Informações do Script" })
 InfoTab:AddParagraph({ "Owner / Developer:", "Bazuka and Passarinho." })
-InfoTab:AddParagraph({ "Colaborações:", "Bazuka, Passarinho"})
+InfoTab:AddParagraph({ "Colaborações:", "Bazuka, Passarinho, 33ms"})
 InfoTab:AddParagraph({ "Você esta usando:", "Bazuka Hub | Brookhaven " })
 InfoTab:AddParagraph({"Your executor:", executor})
 
